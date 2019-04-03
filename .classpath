@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="MovieGuide_PGH-master/BlankProjectTemplate/src/MovieGuideApplication/app/build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="MovieGuide_PGH-master/BlankProjectTemplate/src/MovieGuideApplication/app/src/main/java"/>
+	<classpathentry kind="lib" path="MovieGuide_PGH-master/BlankProjectTemplate/src/MovieGuideApplication/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="MovieGuide_PGH-master/BlankProjectTemplate/src/MovieGuideApplication/app/build/intermediates/classes/debug"/>
+</classpath>
